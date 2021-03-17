@@ -1,0 +1,2 @@
+# template-federate
+Federado básico
